@@ -25,4 +25,6 @@ There are a lot of online talks and education materials. I try to commit myself 
 
 # Other good sources (summary of great links)
 * [Software Profession Resources](https://trello.com/b/1lfMkCOh/software-profession-resources) by **Chris Lucian and Austin Chadwick (Mob mentality show)**
+* [Software Crafters Slack](softwarecrafters.slack.com) (great community of people on Slack)
+* [LeSS Slack](less-works.slack.com) (great community of people on Slack)
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) by **Jan Van Ryswyck**
