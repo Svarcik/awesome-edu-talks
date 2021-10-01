@@ -22,6 +22,11 @@ There are a lot of online talks and education materials. I try to commit myself 
 * [Refactoring techiques](https://sourcemaking.com/refactoring/refactorings) by **SourceMaking.com** [web page]
 * [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) by **Sandro Mancuso** [01:17:05]
 
+## Technical excellence
+* [Why is attention to Technical Excellence important in Agile organisations?](https://www.youtube.com/watch?v=Nr7CliOuDkI&ab_channel=JurgenDeSmet) by **Jurgen de Smet** [00:39:37]
+
+## (Technical) coaching/mentoring/teaching
+* [COACHING Techniques and Mindset](https://www.youtube.com/watch?v=vWQq2IQ9YS0) by **Marshall Goldsmith** [00:51:20]
 
 # Other awesome sources
 * [Software Profession Resources](https://trello.com/b/1lfMkCOh/software-profession-resources) by **Chris Lucian and Austin Chadwick (Mob mentality show)**
