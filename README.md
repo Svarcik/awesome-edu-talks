@@ -9,11 +9,11 @@ There are a lot of online talks and education materials. I try to commit myself 
 ## Test-Driven Development (TDD)
 * (Pluralsight) [What Is TDD and Why It Is Not Unit Testing: Executive Briefing](https://app.pluralsight.com/library/courses/tdd-is-not-unit-testing-executive-briefing/table-of-contents) by Amy Dredge [00:32:00]
 
-# Technical Debt
-* [Dealing with Technical Debt from a business perspective](https://www.youtube.com/watch?v=YolrizOG_ao) by [Jurgen de Smet](https://www.youtube.com/channel/UCWzSf8ftVW9ySON821d69Gg) [00:39:37]
+## Technical Debt
+* [Dealing with Technical Debt from a business perspective](https://www.youtube.com/watch?v=YolrizOG_ao) by **Jurgen de Smet** [00:39:37]
 * [Bug fix tournament](https://www.youtube.com/watch?v=ZMuJA-QXJhk) by **Jurgen de Smet** [00:01:36]
 
-# Trunk Based Development
+## Trunk Based Development
 * [Branching strategy and CI/CD in agile development](https://youtu.be/T1M9zQWAD_w) by **Thierry de Pauw** [01:20:28]
 * [Disadvantages of Pull Requests](https://blog.arkency.com/disadvantages-of-pull-requests/) by **Tomasz Wróbel** [article]
 
