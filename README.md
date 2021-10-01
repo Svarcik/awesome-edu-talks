@@ -23,8 +23,8 @@ There are a lot of online talks and education materials. I try to commit myself 
 * [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) by **Sandro Mancuso** [01:17:05]
 
 
-# Other good sources (summary of great links)
+# Other awesome sources
 * [Software Profession Resources](https://trello.com/b/1lfMkCOh/software-profession-resources) by **Chris Lucian and Austin Chadwick (Mob mentality show)**
-* [Software Crafters Slack](softwarecrafters.slack.com) (great community of people on Slack)
-* [LeSS Slack](less-works.slack.com) (great community of people on Slack)
+* [Software Crafters Slack](softwarecrafters.slack.com) [community of people on Slack)]
+* [LeSS Slack](less-works.slack.com) [community of people on Slack]
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) by **Jan Van Ryswyck**
