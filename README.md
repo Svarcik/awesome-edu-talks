@@ -22,6 +22,8 @@ There are a lot of online talks and education materials. I try to commit myself 
 * [Refactoring techiques](https://sourcemaking.com/refactoring/refactorings) by **SourceMaking.com** [web page]
 * [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) by **Sandro Mancuso** [01:17:05]
 
+## Security
+* (Pluralsight) [Ethical Hacking (CEH Prep 2018)](https://app.pluralsight.com/paths/certificate/ethical-hacking-ceh-prep-2018) by **Dale Meredith** and **Troy Hunt** [07:37:00]
 
 # Other awesome sources
 * [Software Profession Resources](https://trello.com/b/1lfMkCOh/software-profession-resources) by **Chris Lucian and Austin Chadwick (Mob mentality show)**
