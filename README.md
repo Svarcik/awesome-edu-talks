@@ -1,4 +1,4 @@
-# Awesome talks
+# Awesome edu materials
 There are a lot of online talks and education materials. I try to commit myself watching at least two new talks every week, and I've been doing this for quite some time now. I created this list of online talks that I really enjoyed watching or edu materials, which were really helpful for me. I'll also be updating this list whenever I've watched another awesome talk that is worthy enough. Suggestions are always appreciated through a pull request. Thanks to [Jan Van Ryswyck](https://github.com/JanVanRyswyck/awesome-talks) for inspiration to create this list. So without further ado .. 
 
 (In no particular order)
