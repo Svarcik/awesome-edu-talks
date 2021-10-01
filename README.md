@@ -6,6 +6,11 @@ There are a lot of online talks and education materials. I try to commit myself 
 ## Continous delivery
 * [Continuous delivery in 4 months for 15 teams and their monolith](https://thinkinglabs.io/talks/2019/09/06/15-teams-1-monolith-4-months-to-achieve-continuous-delivery.html) by **Thierry de Pauw** [00:40:19]
 
+## DevOps
+* [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/book/show/26083308-the-devops-handbook) by **Gene Kim, Jez Humble, Patrick Debois, John Willis** [book]
+* [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project) by **Gene Kim, Kevin Behr, George Spafford** [book]
+* [DORA Metrics to Measure DevOps Performance](https://www.cloudbees.com/blog/dora-devops-metrics-bandwagon) [article]
+
 ## Test-Driven Development (TDD)
 * (Pluralsight) [What Is TDD and Why It Is Not Unit Testing: Executive Briefing](https://app.pluralsight.com/library/courses/tdd-is-not-unit-testing-executive-briefing/table-of-contents) by Amy Dredge [00:32:00]
 
