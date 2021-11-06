@@ -8,6 +8,7 @@ There are a lot of online talks and education materials. I try to commit myself 
 
 ## Test-Driven Development (TDD)
 * (Pluralsight) [What Is TDD and Why It Is Not Unit Testing: Executive Briefing](https://app.pluralsight.com/library/courses/tdd-is-not-unit-testing-executive-briefing/table-of-contents) by Amy Dredge [00:32:00]
+* [DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) by **Ian Cooper** [01:03:54]
 
 ## Technical practies
 * [Technical? Practices? Scrum?](https://www.youtube.com/watch?v=6KjXkQWVSho) by **Bas Vodde** [00:59:06]
