@@ -8,6 +8,7 @@ There are a lot of online talks and education materials. I try to commit myself 
 
 ## Test-Driven Development (TDD)
 * (Pluralsight) [What Is TDD and Why It Is Not Unit Testing: Executive Briefing](https://app.pluralsight.com/library/courses/tdd-is-not-unit-testing-executive-briefing/table-of-contents) by Amy Dredge [00:32:00]
+* [How to TDD In Legacy Code](https://www.youtube.com/watch?v=TpXSAKQuIQU)
 
 ## Technical practies
 * [Technical? Practices? Scrum?](https://www.youtube.com/watch?v=6KjXkQWVSho) by **Bas Vodde** [00:59:06]
@@ -25,6 +26,11 @@ There are a lot of online talks and education materials. I try to commit myself 
 * [Refactoring techiques](https://sourcemaking.com/refactoring/refactorings) by **SourceMaking.com** [web page]
 * [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) by **Sandro Mancuso** [01:17:05]
 
+## Microservices
+* [Event-Driven Microservices, the Sense, the Non-sense and a Way Forward](https://youtu.be/jrbWIS7BH70)
+
+## API
+* [Ondra Kučera: Swagger: beyond mere documentation](https://www.youtube.com/watch?v=p76Uo6trXB0)
 
 # Other awesome sources
 * [Software Profession Resources](https://trello.com/b/1lfMkCOh/software-profession-resources) by **Chris Lucian and Austin Chadwick (Mob mentality show)**
